@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "GZKP525SU3.com.jko.jello.debug",
-                "paths": [ "*" ]
+                "paths": [ "/qr/ch/*" ]
             }
         ]
     }
