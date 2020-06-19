@@ -3,8 +3,16 @@
         "apps": [],
         "details": [
             {
-                "appID": "GZKP525SU3.com.jko.jello.debug",
+                "appID": "GZKP525SU3.com.jkos.jello",
                 "paths": [ "/qr/ch/*" ]
+            },
+            {
+                "appID": "GZKP525SU3.com.jko.jello.debug",
+                "paths": [ "/stg/qr/ch/*" ]
+            },
+            {
+                "appID": "GZKP525SU3.com.jko.jello.rc",
+                "paths": [ "/rc/qr/ch/*" ]
             }
         ]
     }
