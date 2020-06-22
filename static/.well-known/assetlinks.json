@@ -1,31 +1,9 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { 
-  	"namespace": "android_app",
-  	"package_name": "com.jkos.jello",    
-    "sha256_cert_fingerprints": 
-	["0F:85:2A:E9:B8:B7:1A:B6:73:84:20:C1:59:A4:A3:92:B0:94:B5:07:7F:83:BE:96:88:EE:D5:CE:0C:EE:EF:8D"] }
-},{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { 
-  	"namespace": "android_app",
-  	"package_name": "com.jkos.jello",    
-    "sha256_cert_fingerprints": 
-	["A4:28:17:C4:BB:0B:F8:DC:6D:82:5F:F1:4C:A4:E1:FF:69:8C:12:E5:60:34:55:16:DD:E2:8C:66:A4:2A:AB:A6"] }
-},{
-  "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
     "package_name": "com.jellotalk.jello.test",
-    "sha256_cert_fingerprints": 
+    "sha256_cert_fingerprints":
     ["95:86:99:BE:84:F4:48:A2:37:0C:C4:F5:11:86:A8:36:DC:7B:14:BD:9C:FE:51:63:1A:1F:28:2A:33:E0:FA:F8"]
-  }
-},{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.jellotalk.jello.test",
-    "sha256_cert_fingerprints": 
-    ["71:3F:6C:36:97:84:07:F0:3D:5D:2A:6F:11:08:8D:52:D8:12:8F:89:4E:FD:C2:18:0E:5F:80:5B:4C:4B:C6:D4"]
   }
 }]
