@@ -28,12 +28,4 @@
     "sha256_cert_fingerprints": 
     ["71:3F:6C:36:97:84:07:F0:3D:5D:2A:6F:11:08:8D:52:D8:12:8F:89:4E:FD:C2:18:0E:5F:80:5B:4C:4B:C6:D4"]
   }
-},{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.jellotalk.jello.test",
-    "sha256_cert_fingerprints": 
-    []
-  }
 }]
